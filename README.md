@@ -63,4 +63,4 @@ Requirements
 1) Pyhton 3.6+
 2) Anaconda
 3) Jupyter Notebook
-4) Windows
+4) Windows 10
