@@ -1,6 +1,6 @@
 # Machine-Learning-Classification
 
-This repository maintains variety of Machine Learning Calssification Algorithms.
+This repository maintains variety of Machine Learning Classification Algorithms.
 
 With this project we able to know which Classification algorithm suits whcih type of problems.
 
