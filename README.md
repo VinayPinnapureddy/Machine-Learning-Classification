@@ -31,3 +31,28 @@ Our project explores following Classification Algorithms :
 6) Decision Tree Classification
 
 7) Random Forest Classification ( Similar to Decision Trees except the Number of Estimators used )
+
+# Datasets
+
+We use various datasets to address various type of problems where Classification is applicable.
+
+We used 3 datasets
+
+1) breast_cancer dataset
+
+Download the dataset :
+
+https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)
+
+2) Iris dataset
+
+Download the dataset :
+
+https://www.kaggle.com/uciml/iris
+
+3) Social_Networks_Ads
+
+Download the dataset :
+
+https://www.kaggle.com/rakeshrau/social-network-ads
+
